@@ -1,5 +1,5 @@
 title: Joy Flowers
-logo: assets/img/Prof_pic_cropped.png
+logo: /assets/img/Prof_pic_cropped.png
 #description:
 show_downloads: true
 theme: jekyll-theme-minimal
