@@ -1,7 +1,8 @@
 # PhD Candidate
 
 ## Education
-- Ph.D., Wildlife and Fisheries Science | Pennsylvania State University | GPA: 4.0/4.0 (_Expected December 2027_)								       			        		
+- Ph.D., Wildlife and Fisheries Science | Pennsylvania State University | GPA: 4.0/4.0 (_Expected December 2027_)
+                           		
 - B.S., Wildlife Conservation and Biological Sciences (Dual Degree) | Virginia Polytechnic Institute and State University | GPA: 3.98/4.0 (_December 2021_)
 
 ## Research Experience
