@@ -11,6 +11,8 @@
 
 ![EDA Visualization of Eastern-Redback Salamander Occurrence per 25km Hexbin](/assets/img/count_by_bin_PCIN.png)
 
+![EDA Visualization of Eastern-Redback Salamander Occurrence per 25km Hexbin](/assets/img/sdm_framework.png)
+
 - Prepared geospatial data and developed GLMMs in ArcGIS Pro and R to evaluate the explanatory power of land cover change models across temporal lags and spatial scales for Ebola spillover events
 
 ## Publications
