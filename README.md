@@ -32,7 +32,7 @@ Biology Teaching Assistant, Dept. of Biology, The Pennsylvania State University 
 -	Populations and Communities (BIOL 220W), 40 undergraduate students: read course contents related to the fundamental ecological principles, concepts, patterns, and processes regarding populations, communities, and ecosystems, led lab section with lectures and lab demonstrations, held biweekly office hours, and graded student labs 
 
 R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_September 2024_)
--	Lead a four-hour workshop for wildlife health students and the Department of the Environment in Grand Cayman, Cayman Islands focused on R basics and modeling concepts for the Making Waves: A Wildlife Health Student Workshop
+-	Led a four-hour workshop for wildlife health students and the Department of the Environment in Grand Cayman, Cayman Islands focused on R basics and modeling concepts for the Making Waves: A Wildlife Health Student Workshop
 
 
 ## Service & Outreach
