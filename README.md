@@ -8,7 +8,7 @@
 **Graduate Research Assistant @ Dept. of Ecos. Sci. & Mgmt, The Pennsylvania State University (_August 2022 - present_)**
 - Building hierarchical Bayesian species distribution models for plethodontid salamanders in NIMBLE in R statistical software
 
-![EDA Visualization of Eastern-Redback Salamander Occurrence per 25km Hexbin](/assets/img/Density_p_cinereus.png)
+![EDA Visualization of Eastern-Redback Salamander Occurrence per 25km Hexbin](/assets/img/count by bin-1.png)
 
 - Prepared geospatial data and developed GLMMs in ArcGIS Pro and R to evaluate the explanatory power of land cover change models across temporal lags and spatial scales for Ebola spillover events
 
