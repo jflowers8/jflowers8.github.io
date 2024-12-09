@@ -25,10 +25,37 @@ Jelesko JG, Thompson K, Magerkorth N, Verteramo E, Becker H, Flowers J, Sachs J,
 - Flowers J, Worsley-Tonks K, Fountain Jones N, and Escobar L. Global Geography and Ecology of Rabies Reservoirs. The Wildlife Society Virginia Chapter Conference (Waynesboro, VA, U.S.A. February 2019) & Dept. of Fish and Wildlife Conservation Research Symposium (Blacksburg, VA, U.S.A. December 2018).
 
 ## Teaching Experience
+Biology Teaching Assistant, Dept. of Biology, The Pennsylvania State University (_August 2023 - December 2023_)
+•	Populations and Communities (BIOL 220W), 40 undergraduate students: read course contents related to the fundamental ecological principles, concepts, patterns, and processes regarding populations, communities, and ecosystems, led lab section with lectures and lab demonstrations, held biweekly office hours, and graded student labs 
+
+R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_September 2024_)
+•	Lead a four-hour workshop for wildlife health students and the Department of the Environment in Grand Cayman, Cayman Islands focused on R basics and modeling concepts for the Making Waves: A Wildlife Health Student Workshop
+
 
 ## Service & Outreach
+President and Founder, Canada and USA Chapter of the Wildlife Disease Association (_August 2021 - present_)
+•	Created a Canada and USA student chapter of the WDA to facilitate communication and networking between university chapters and the International WDA
+•	Assisted International WDA Conference Student Workshop development for 2022 and 2023 conference
+•	Discussed the creation of the Canada and USA chapter of the WDA on the podcast Wildlife Health Talks
+•	Created and raised 20k for the Making Waves: A Wildlife Health Student Workshop in the Cayman Islands for 2024 to provide educational wildlife health students.
+•	Sponsored a scholarship for the Making Waves: A Wildlife Health Student Workshop, enabling a student dedicated to applying conservation practices to benefit Caribbean communities
+•	Developed and recruited speakers for a primer webinar series leading up to the stand-alone workshop in the Cayman Islands for 2024
+
+President and Founder, Wildlife Disease Association Student Chapter at Virginia Tech (_January 2019 - December 2021_)
+•	Created and led a 40-member student chapter in which the members gain experience working with wildlife diseases and other professionals in the field 
+•	Communicated effectively to lead officers, gather speakers, and set up over 35 events
+•	Collaborated with five other organization officers in order to manage all aspects of the organization
+•	Created a Diversity and Inclusion Officer position in Fall 2020 in order to focus on collaborations with diversity focused speakers and organizations on campus 
+•	Participated in educational outreach events such as Kids Tech University in Spring 2020 
+•	Hosted a virtual seminar for the International WDA seminar series in 2020
+•	Awarded a WDA Student Travel Grant for 750$ to go to the international conference in Madison, Wisconsin
+
 
 ## Training & Preparation
+Short Course on Bayesian Models for Ecologists, Col. State. Univ., Fort Collins, CO (_June 2024_)     
+•	A 10-day short course focused on the principles of using Bayesian models on Ecological data.
+•	The course includes lectures and laboratory exercises taught to apply Bayesian models in R and JAGS.
+
 
 ## Technical Skills:
 - R: ●●●●○
