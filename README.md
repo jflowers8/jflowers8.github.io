@@ -7,11 +7,11 @@
 
 ## Research Experience
 **Graduate Research Assistant @ Dept. of Ecos. Sci. & Mgmt, The Pennsylvania State University (_August 2022 - present_)**
-- Building hierarchical Bayesian species distribution models for plethodontid salamanders in NIMBLE in R statistical software
+- Building hierarchical Bayesian species distribution models for plethodontid salamanders in NIMBLE in R statistical software (see below)
 
-![EDA Visualization of Eastern-Redback Salamander Occurrence per 25km Hexbin](/assets/img/count_by_bin_PCIN.png)
+![iSDM Model Framework](/assets/img/Model_Framework_Visual.png)
 
-![EDA Visualization of Eastern-Redback Salamander Occurrence per 25km Hexbin](/assets/img/sdm_framework.png)
+![Relative Abundance of P. hoffmani](/assets/img/map-intensity-hitail-chain1.png)
 
 - Prepared geospatial data and developed GLMMs in ArcGIS Pro and R to evaluate the explanatory power of land cover change models across temporal lags and spatial scales for Ebola spillover events
 
@@ -22,17 +22,21 @@ Jelesko JG, Thompson K, Magerkorth N, Verteramo E, Becker H, Flowers J, Sachs J,
 
 
 ## Posters & Oral Presentations
+- Flowers J and Miller D. Using Multiple Datasets to Better Inform Species Distribution Models for the Valley and Ridge Salamander [Oral Presentation]. Ecological Society of America. Baltimore, MD, U.S.A. August 2025.
 - Flowers J and Bharti N. Disease in the Clearcut: Exploring Disease Dynamics in Vanishing Forests [Oral Presentation]. University of Florida Student Chapter of the Wildlife Disease Association. Zoom. April 2024.
 - Flowers J and Bharti N. Characterizing the Relationship between Anthropogenic Habitat Loss and Ebola Spillovers [Poster]. International Wildlife Disease Association Conference. University of Georgia. Athens, GA, U.S.A. July 2023.
 - Flowers J and Bharti N. Characterizing the Relationship between Anthropogenic Deforestation and Ebola Spillovers. Ecol. and Evo. of Infectious Diseases Conference & Life Sci. Symposium (both University Park, PA, U.S.A. May 2023). 
 - Flowers J, Worsley-Tonks K, Fountain Jones N, and Escobar L. Global Geography and Ecology of Rabies Reservoirs. The Wildlife Society Virginia Chapter Conference (Waynesboro, VA, U.S.A. February 2019) & Dept. of Fish and Wildlife Conservation Research Symposium (Blacksburg, VA, U.S.A. December 2018).
 
 ## Teaching Experience
+
+R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_July 2025_)
+-	Led a two-hour workshop for wildlife health students in Victoria, British Columbia focused on R basics and spatial data analysis concepts for the Living Landscapes Student Workshop: Bridging Wildlife Health, Human Impact and Community Voices
+R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_September 2024_)
+-	Led a four-hour workshop for wildlife health students and the Department of the Environment in Grand Cayman, Cayman Islands focused on R basics and modeling concepts for the Making Waves: A Wildlife Health Student Workshop
 Biology Teaching Assistant, Dept. of Biology, The Pennsylvania State University (_August 2023 - December 2023_)
 -	Populations and Communities (BIOL 220W), 40 undergraduate students: read course contents related to the fundamental ecological principles, concepts, patterns, and processes regarding populations, communities, and ecosystems, led lab section with lectures and lab demonstrations, held biweekly office hours, and graded student labs 
 
-R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_September 2024_)
--	Led a four-hour workshop for wildlife health students and the Department of the Environment in Grand Cayman, Cayman Islands focused on R basics and modeling concepts for the Making Waves: A Wildlife Health Student Workshop
 
 
 ## Service & Outreach
