@@ -30,19 +30,19 @@ Jelesko JG, Thompson K, Magerkorth N, Verteramo E, Becker H, Flowers J, Sachs J,
 
 ## Teaching Experience
 
-R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_July 2025_)
+**R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_July 2025_)**
 -	Led a two-hour workshop for wildlife health students in Victoria, British Columbia focused on R basics and spatial data analysis concepts for the Living Landscapes Student Workshop: Bridging Wildlife Health, Human Impact and Community Voices
   
-R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_September 2024_)
+**R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_September 2024_)**
 -	Led a four-hour workshop for wildlife health students and the Department of the Environment in Grand Cayman, Cayman Islands focused on R basics and modeling concepts for the Making Waves: A Wildlife Health Student Workshop
 
-Biology Teaching Assistant, Dept. of Biology, The Pennsylvania State University (_August 2023 - December 2023_)
+**Biology Teaching Assistant, Dept. of Biology, The Pennsylvania State University (_August 2023 - December 2023_)**
 -	Populations and Communities (BIOL 220W), 40 undergraduate students: read course contents related to the fundamental ecological principles, concepts, patterns, and processes regarding populations, communities, and ecosystems, led lab section with lectures and lab demonstrations, held biweekly office hours, and graded student labs 
 
 
 
 ## Service & Outreach
-President and Founder, Canada and USA Chapter of the Wildlife Disease Association (_August 2021 - present_)
+**President and Founder, Canada and USA Chapter of the Wildlife Disease Association (_August 2021 - present_)**
 - Created a Canada and USA student chapter of the WDA to facilitate communication and networking between university chapters and the International WDA
 -	Assisted International WDA Conference Student Workshop development for 2022 and 2023 conference
 -	Discussed the creation of the Canada and USA chapter of the WDA on the podcast Wildlife Health Talks
@@ -50,7 +50,7 @@ President and Founder, Canada and USA Chapter of the Wildlife Disease Associatio
 -	Sponsored a scholarship for the Making Waves: A Wildlife Health Student Workshop, enabling a student dedicated to applying conservation practices to benefit Caribbean communities
 -	Developed and recruited speakers for a primer webinar series leading up to the stand-alone workshop in the Cayman Islands for 2024
 
-President and Founder, Wildlife Disease Association Student Chapter at Virginia Tech (_January 2019 - December 2021_)
+**President and Founder, Wildlife Disease Association Student Chapter at Virginia Tech (_January 2019 - December 2021_)**
 -	Created and led a 40-member student chapter in which the members gain experience working with wildlife diseases and other professionals in the field 
 -	Communicated effectively to lead officers, gather speakers, and set up over 35 events
 -	Collaborated with five other organization officers in order to manage all aspects of the organization
@@ -61,7 +61,7 @@ President and Founder, Wildlife Disease Association Student Chapter at Virginia 
 
 
 ## Training & Preparation
-Short Course on Bayesian Models for Ecologists, Col. State. Univ., Fort Collins, CO (_June 2024_)     
+**Short Course on Bayesian Models for Ecologists, Col. State. Univ., Fort Collins, CO (_June 2024_)**
 -	A 10-day short course focused on the principles of using Bayesian models on Ecological data.
 -	The course includes lectures and laboratory exercises taught to apply Bayesian models in R and JAGS.
 
