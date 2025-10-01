@@ -7,7 +7,7 @@
 
 ## Research Experience
 **Graduate Research Assistant @ Dept. of Ecos. Sci. & Mgmt, The Pennsylvania State University (_August 2022 - present_)**
-- Building hierarchical Bayesian species distribution models for plethodontid salamanders in NIMBLE in R statistical software (see below)
+- Building hierarchical Bayesian species distribution models for plethodontid salamanders in NIMBLE in R statistical software (see visualizations below)
 
 ![iSDM Model Framework](/assets/img/Model_Framework_Visual.png)
 
@@ -16,8 +16,8 @@
 - Prepared geospatial data and developed GLMMs in ArcGIS Pro and R to evaluate the explanatory power of land cover change models across temporal lags and spatial scales for Ebola spillover events
 
 ## Publications
-### Poison ivy (Toxicodendron radicans) leaf shape variability: Why plant avoidance-by-identification recommendations likely do not substantially reduce poison ivy rash incidence
-Jelesko JG, Thompson K, Magerkorth N, Verteramo E, Becker H, Flowers J, Sachs J, and Metzgar J. Poison ivy (Toxicodendron radicans) leaf shape variability: Why plant avoidance-by-identification recommendations likely do not substantially reduce poison ivy rash incidence. Plants, People, and Planet, 6(1):210-220. DOI: 10.1002/ppp3.10439. Published September 2023.
+### Poison ivy (_Toxicodendron radicans_) leaf shape variability: Why plant avoidance-by-identification recommendations likely do not substantially reduce poison ivy rash incidence
+Jelesko JG, Thompson K, Magerkorth N, Verteramo E, Becker H, Flowers J, Sachs J, and Metzgar J. Poison ivy (_Toxicodendron radicans_) leaf shape variability: Why plant avoidance-by-identification recommendations likely do not substantially reduce poison ivy rash incidence. Plants, People, and Planet, 6(1):210-220. DOI: 10.1002/ppp3.10439. Published September 2023.
 [Publication](https://doi.org/10.1002/ppp3.10439)
 
 
