@@ -1,4 +1,4 @@
-# PhD Candidate
+# PhD Student
 
 ## Education
 - Ph.D., Wildlife and Fisheries Science | Pennsylvania State University | GPA: 4.0/4.0 (_Expected December 2028_)
