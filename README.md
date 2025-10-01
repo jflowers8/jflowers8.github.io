@@ -32,6 +32,7 @@ Jelesko JG, Thompson K, Magerkorth N, Verteramo E, Becker H, Flowers J, Sachs J,
 
 R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_July 2025_)
 -	Led a two-hour workshop for wildlife health students in Victoria, British Columbia focused on R basics and spatial data analysis concepts for the Living Landscapes Student Workshop: Bridging Wildlife Health, Human Impact and Community Voices
+  
 R Workshop Leader, Canada and USA Student Chapter of the Wildlife Disease Association (_September 2024_)
 -	Led a four-hour workshop for wildlife health students and the Department of the Environment in Grand Cayman, Cayman Islands focused on R basics and modeling concepts for the Making Waves: A Wildlife Health Student Workshop
 
