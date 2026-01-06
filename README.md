@@ -11,7 +11,7 @@
 
 ![iSDM Model Framework](/assets/img/Model_Framework_Visual.png)
 
-![Relative Abundance of P. hoffmani](/assets/img/map-intensity-hitail-chain1.png)
+![Relative Abundance of P. hoffmani](/assets/img/PHOF-map-intensity-mean-chain1.png)
 
 - Prepared geospatial data and developed GLMMs in ArcGIS Pro and R to evaluate the explanatory power of land cover change models across temporal lags and spatial scales for Ebola spillover events
 
