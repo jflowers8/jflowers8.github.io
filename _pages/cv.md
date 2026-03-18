@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last Amended Summer 2025
+Last Amended Summer 2025 (Note: As of right now this is more of a resume since it only contains major achievements)
 
 ## Education
 - Ph.D., Wildlife and Fisheries Science | Pennsylvania State University | GPA: 4.0/4.0 (_Expected December 2027_)
