@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-# PhD Student
+Last Amended Summer 2025
 
 ## Education
-- Ph.D., Wildlife and Fisheries Science | Pennsylvania State University | GPA: 4.0/4.0 (_Expected December 2028_)
+- Ph.D., Wildlife and Fisheries Science | Pennsylvania State University | GPA: 4.0/4.0 (_Expected December 2027_)
                            		
 - B.S., Wildlife Conservation and Biological Sciences (Dual Degree) | Virginia Polytechnic Institute and State University | GPA: 3.98/4.0 (_December 2021_)
 
@@ -20,9 +20,9 @@ redirect_from:
 **Graduate Research Assistant @ Dept. of Ecos. Sci. & Mgmt, The Pennsylvania State University (_August 2022 - present_)**
 - Building hierarchical Bayesian species distribution models for plethodontid salamanders in NIMBLE in R statistical software (see visualizations below)
 
-![iSDM Model Framework](/assets/img/Model_Framework_Visual.png)
+![iSDM Model Framework](/images/Model_Framework_Visual.png)
 
-![Relative Abundance of P. hoffmani](/assets/img/PHOF-map-intensity-mean-chain1.png)
+![Relative Abundance of P. hoffmani](/images/PHOF-map-intensity-mean-chain1.png)
 
 - Prepared geospatial data and developed GLMMs in ArcGIS Pro and R to evaluate the explanatory power of land cover change models across temporal lags and spatial scales for Ebola spillover events
 
