@@ -20,7 +20,7 @@ Last Amended Summer 2025
 **Graduate Research Assistant @ Dept. of Ecos. Sci. & Mgmt, The Pennsylvania State University (_August 2022 - present_)**
 - Building hierarchical Bayesian species distribution models for plethodontid salamanders in NIMBLE in R statistical software (see visualizations below)
 
-![iSDM Model Framework](/images/Model_Framework_Visual.png)
+![iSDM Model Framework](/images/Model_Framework_Visual.jpg)
 
 ![Relative Abundance of P. hoffmani](/images/PHOF-map-intensity-mean-chain1.png)
 
