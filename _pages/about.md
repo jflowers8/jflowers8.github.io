@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "An wildlife conservationist turned applied statistics enthusiast"
+title: "A wildlife conservationist turned applied statistics enthusiast"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,11 +21,11 @@ Some professional things I love learning about:
 
 Fun things I love learning about:
 ======
-- Creating DND campaigns/oneshots (not detection non detection although I like this too...I'm talking dungeons and dragons!)
-- High end clothing; specifically mindful craftsmanship and environmentally conscious materials (we are anti-polyester here)
+- Creating dungeons&dragons campaigns/oneshots
+- High end clothing; specifically mindful craftsmanship and environmentally conscious materials
 - Vampire lore (don't ask me why specifically vampires, this has been a lifelong obsession that I can't explain)
 
-Want to chat? Send me an email! 
+Want to chat? Send me an email!
 
 Photo Gallery:
 ======
